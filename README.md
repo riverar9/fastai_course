@@ -1,2 +1,2 @@
 # fastai_course
-Where I will be publishing any work I do with fastai
+Where I will be publishing any work I create while learning fastai
